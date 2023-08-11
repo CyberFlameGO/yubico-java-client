@@ -32,7 +32,7 @@
     <dependency>
       <groupId>edu.vt.middleware</groupId>
       <artifactId>vt-ldap</artifactId>
-      <version>3.3.3</version>
+      <version>3.3.8</version>
     </dependency>
     <dependency>
       <groupId>commons-codec</groupId>
